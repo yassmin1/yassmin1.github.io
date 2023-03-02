@@ -1533,7 +1533,7 @@ input, select, textarea {
 
 		header > p {
 			margin: 0.5em 0 0 0;
-			color: #aaa;
+			color: #0e0d0d;
 		}
 
 		@media screen and (max-width: 736px) {
@@ -2130,7 +2130,7 @@ input, select, textarea {
 					}
 
 					#main > .panel.intro header {
-						padding: 2.75em 2em 2.5em 2em;
+						padding: 1.0em 2em 2.5em 2em;
 					}
 
 						#main > .panel.intro header p {
